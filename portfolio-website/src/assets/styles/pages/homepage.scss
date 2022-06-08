@@ -32,7 +32,7 @@
             &:nth-child(2) {
                 width: 30%;
                 text-align: center;
-                
+
                 @media only screen and (max-width: 900px) {
                     display: none;
                 }
@@ -74,7 +74,12 @@
             width: 95%;
         }
 
-        .Subtitle {font-size: 1.55em}
+        .Subtitle {
+          font-size: 1.55em;
+          h1 {
+            font-color: $deep-taupe;
+          }
+        }
 
         h1 {
             font-family: $font2;
@@ -149,7 +154,7 @@
                     h2 {
                         font-family: $font2;
                     }
-                    
+
                     .Tags {
                         font-size: 1.25em;
                         color: $third;
@@ -169,7 +174,7 @@
 
                 .Image {
                     width: 50%;
-                    
+
                     @media only screen and (max-width: 1024px) {
                         width: 100%
                     }
@@ -216,7 +221,7 @@
 
     .Contact {
         padding: 3%;
-        
+
         header {
             text-align: center;
             margin: 0 auto;

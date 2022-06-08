@@ -8,10 +8,10 @@ export default class Tagline extends React.Component<{}, {}> {
             <div className={styles.Tagline} id="Me">
                 <div className={styles.Centered}>
                     <div className={styles.Block}>
-                        <h2>MANTRA</h2>
+                        <h2>INTENT</h2>
                         <h1>
-                            I believe that a world with equitable and
-                            accessible education is something everyone
+                            I believe that building a world with precise,
+                            equitable, and accessible technology is something everyone
                             will benefit from.
                         </h1>
                     </div><div className={styles.Block}>

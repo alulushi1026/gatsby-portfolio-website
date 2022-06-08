@@ -14,12 +14,12 @@ export default class Navbar extends React.Component<{}, {}> {
                         <SymbolNegative />
                     </div>
                     <div className={styles.Copyright}>
-                        <p>&copy; 2019 Fogata Design Studio.</p>
+                        <p>&copy; 2022 Fenix L.L.C.</p>
                         <p>All rights reserved.</p>
                     </div>
                     <div className={styles.Contact}>
-                        <p><Phone /> +52 (331)032-0163</p>
-                        <p><Mail /> hola@coretta.mx</p>
+                        <p><Phone /> +1 703-618-9727 </p>
+                        <p><Mail /> hello@fenixllc.eth</p>
                     </div>
                 </div>
 

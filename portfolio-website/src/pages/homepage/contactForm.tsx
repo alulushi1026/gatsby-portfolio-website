@@ -60,7 +60,7 @@ export default class ContactForm extends React.Component<Props, {}> {
             message
         } = this.state
 
-        const url = 'https://api.timbrat.com.mx/api/coretta/contacto'
+        const url = 'mailto:annalulushi@gmail.com'
         const params = {
             name,
             email,

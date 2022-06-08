@@ -8,6 +8,7 @@ import { default as Portfolio } from './homepage/portfolio'
 import { default as Contact } from './homepage/contacto'
 import { default as Footer } from './common/footer'
 import { Helmet } from 'react-helmet'
+import favicon from '../assets/vectors/favicon.svg'
 
 interface IndexPageProps {}
 
@@ -23,7 +24,8 @@ export default class IndexPage extends React.Component<IndexPageProps, {}> {
                 <Helmet>
                     <meta charSet="utf-8" />
                     <title>Anna Lulushi | Portfolio Website</title>
-                    <link rel="canonical" href="https://coretta.mx/" />
+                    <link rel="canonical" href="https://fenix.eth/" />
+                    <link rel="icon" type="vector/svg" hrf={favicon} />
                 </Helmet>
                 <Navbar />
                 <Heroshot
