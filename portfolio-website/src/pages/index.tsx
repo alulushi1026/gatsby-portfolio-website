@@ -8,9 +8,9 @@ import { default as Portfolio } from './homepage/portfolio'
 import { default as Contact } from './homepage/contacto'
 import { default as Footer } from './common/footer'
 import { Helmet } from 'react-helmet'
-import favicon from '../assets/vectors/favicon.svg'
-
+import favicon from './static/favicon.svg'
 interface IndexPageProps {}
+
 
 export default class IndexPage extends React.Component<IndexPageProps, {}> {
 
