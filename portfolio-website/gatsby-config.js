@@ -1,7 +1,8 @@
 module.exports = {
+  pathPrefix: 'lulushi.eth',
   siteMetadata: {
-    name: `Skillshare: How to Build your Online Portfolio from Scratch with Gatsby`,
-    tagline: `How to Build your Online Portfolio from Scratch with Gatsby`
+    name: `Anna Lulushi, Portfolio`,
+    tagline: `Portfolio Website of Anna Lulushi`
   },
   plugins: [
     {
