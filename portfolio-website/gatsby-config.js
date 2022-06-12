@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: 'lulushi.eth',
+  pathPrefix: 'eternalautumn.eth',
   siteMetadata: {
     name: `Anna Lulushi, Portfolio`,
     tagline: `Portfolio Website of Anna Lulushi`
