@@ -36,7 +36,7 @@ export default class IndexPage extends React.Component<IndexPageProps, {}> {
                     <Tagline />
                     <Services />
                     <Portfolio />
-                    <Contact />
+                    // <Contact />
                 </div>
                 <Footer />
             </section>

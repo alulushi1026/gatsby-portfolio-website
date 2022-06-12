@@ -19,7 +19,7 @@ export default class Navbar extends React.Component<{}, {}> {
                     </div>
                     <div className={styles.Contact}>
                         <p><Phone /> +1 703-618-9727 </p>
-                        <p><Mail /> hello@fenixllc.eth</p>
+                        <p><Mail /> alulushi@alumni.cmu.edu</p>
                     </div>
                 </div>
 
