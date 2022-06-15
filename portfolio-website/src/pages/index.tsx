@@ -30,7 +30,7 @@ export default class IndexPage extends React.Component<IndexPageProps, {}> {
                 <Navbar />
                 <Heroshot
                     title="Hi there. I am Anna Lulushi."
-                    subtitle="I work to design products that work for the many, not the few."
+                    subtitle="I design products that work for the many, not the few."
                 />
                 <div className={styles.Homepage}>
                     <Tagline />

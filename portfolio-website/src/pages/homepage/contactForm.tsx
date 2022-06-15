@@ -60,7 +60,7 @@ export default class ContactForm extends React.Component<Props, {}> {
             message
         } = this.state
 
-        const url = 'mailto:annalulushi@gmail.com'
+        const url = 'mailto:anna@lulushi.xyz'
         const params = {
             name,
             email,
