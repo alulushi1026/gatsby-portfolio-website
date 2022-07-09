@@ -17,7 +17,6 @@ export default class Navbar extends React.Component<{}, {}> {
                         <AnchorLink offset="100" href="#Me">Me</AnchorLink>
                         <AnchorLink offset="100" href="#Services">Services</AnchorLink>
                         <AnchorLink offset="100" href="#Portfolio">Portfolio</AnchorLink>
-                        <AnchorLink offset="100" href="#Contact">Contact</AnchorLink>
                     </nav>
                 </section>
             </section>

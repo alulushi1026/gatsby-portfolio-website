@@ -14,12 +14,9 @@ export default ({ data }: any) => (
                     </a>
                     <br />
                     <a href = "https://drive.google.com/file/d/10vtNJQqPysh921RCh0eSC6Qqf9NmtgIG/view?usp=sharing">
-                    View CV Draft on Google Drive
+                    View CV on Google Drive (Draft)
                     </a>
                     <br />
-                    <a href="https://ipfs.io/ipfs/QmTkpQCMv3Z7eoPChQo6AYVebvAdGiBBTQiNyiyKzBebL1?filename=Anna%20Lulushi%20-%20Resume.pdf">
-                    View Resume on IPFS (beta)
-                    </a>
 
                 </p>
             </header>
